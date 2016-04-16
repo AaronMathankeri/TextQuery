@@ -1,0 +1,17 @@
+Over the past several years, I developed a strong, versatile skill set in Machine Learning and data analysis.
+My previous experience developing and implementing algorithms for classification and prediction will be a seamless integration at Faraday Future.
+I previously built models to understand traffic propagation.
+This work was used to predict the time for a vehicle to receive information on a traffic light change.
+Traffic prediction requires a nuanced, hierarchical modelling framework to make this complex analysis feasible.
+An ensemble of mathematical models are therefore vital for understanding the interplay of forces that control the emergence of traffic.
+I am extensively trained in structuring data models to analyze complex problems, like traffic prediction, from my research in cancer genomics.
+In my Master’s, I develop and explore the power of new computational and statistical approaches for identifying mutations in DNA that cause cancer.
+Real-world problems are rarely analyzable by “out-of-the-box” Machine Learning techniques.
+I am experienced modifying Machine Learning algorithms to more realistically mirror mechanisms of interest.
+Predicting mutations that cause cancer requires the consideration of several factors that are orchestrated in a specific arrangement.
+This problem is clearly very similar to traffic dynamics, especially in the consideration of the dependencies between weather, accidents, and rush hours.
+The pioneering work at Faraday Future will require a versatile analyst to produce high quality work at project critical times.
+My strongest skill is that I am not limited to a particular field of study.
+For a given task, I am able to use a wide array of tools from Machine Learning, Bayesian data analysis, and high-performance computing.
+My deep understanding of mathematics, statistics, and analytical experimental design, which I developed during my physics and bioinformatics training, will thus be a strong asset in this role.
+My experience developing and implementing efficient algorithms can be seamlessly integrated into the team. I hope to contribute immediately to further the goals and growth of Faraday Future.
